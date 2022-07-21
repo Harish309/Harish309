@@ -3,25 +3,25 @@
 
 <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width=400 alt="Coder" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thangarajtk&label=Profile%20views&color=0e75b6&style=flat" alt="thangarajtk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harish309&label=Profile%20views&color=0e75b6&style=flat" alt="Harish309" /> </p>
 
-- 🔭 I’m currently working on [Appium with Java (BDD) - Mobile Automation Framework](https://github.com/Thangarajtk/appium-mobile-automation-framework-bdd)
+- 🔭 I’m currently working with Virtusa as Senior Automation Consultant/SDET
 
-- 🌱 I’m currently learning **API automation framework design**
+- 🌱 I’m currently learning **Appium with Java Automation framework design**
 
 - 👯 I’m looking to collaborate on **Automation framework design and development**
 
 - 🤝 I’m looking for help with **Cloud (AWS)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Thangarajtk](https://github.com/Thangarajtk)
+- 👨‍💻 All of my projects are available at [https://github.com/Harish309](https://github.com/Harish309)
 
-- 💬 Ask me about **Selenium, Appium, WebdriverIO, Cucumber, DevOps (Jenkins, Docker)**
+- 💬 Ask me about **Selenium, C#, Java, API, JMeter, Cucumber, Specflow, DevOps (Azure, Jenkins, Docker)**
 
-- 📫 How to reach me **https://www.linkedin.com/in/thangaraj-kumaraswamy/**
+- 📫 How to reach me **https://www.linkedin.com/in/harish-gajjela/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thangaraj-kumaraswamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thangaraj-kumaraswamy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harish-gajjela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish-gajjela" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
