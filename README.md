@@ -47,7 +47,6 @@
   <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-ar21.svg" alt="browserstack" width="90" height="50"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarishGajjela&show_icons=true&locale=en&layout=compact" alt="HarishGajjela" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarishGajjela&show_icons=true&locale=en" alt="HarishGajjela" /></p>
 
