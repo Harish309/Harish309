@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Appium with Java Automation framework design**
 
-- 👯 I’m looking to collaborate on **Automation framework design and development**
-
-- 🤝 I’m looking for help with **Cloud (AWS)**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Harish309](https://github.com/Harish309)
 
 - 💬 Ask me about **Selenium, C#, Java, API, JMeter, Cucumber, Specflow, DevOps (Azure, Jenkins, Docker)**
