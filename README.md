@@ -3,13 +3,13 @@
 
 <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width=400 alt="Coder" />
 
-- 🔭 I’m currently working with Virtusa as Senior Automation Consultant/SDET
+- 🔭 I’m currently working with Virtusa as Senior SDET
 
 - 🌱 I’m currently learning **Appium with Java Automation framework design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harish309](https://github.com/Harish309)
+- 👨‍💻 All of my projects are available at [https://github.com/HarishGajjela](https://github.com/HarishGajjela)
 
-- 💬 Ask me about **Selenium, C#, Java, API, JMeter, Cucumber, Specflow, DevOps (Azure, Jenkins, Docker)**
+- 💬 Ask me about **Selenium, Cypress, Java, JavaScript, C#, RestAssured, MySQL, JMeter, Cucumber, Specflow, DevOps (Azure, Jenkins, Docker)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/harish-gajjela/**
 
